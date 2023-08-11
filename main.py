@@ -98,3 +98,12 @@ dispatcher.add_handler(MessageHandler(Filters.text, message_handler))
 
 updater.start_polling()
 updater.idle()
+
+
+
+
+
+
+
+
+привет озод
